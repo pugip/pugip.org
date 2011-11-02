@@ -1,3 +1,8 @@
+"""
+This is the first iteration of the pugip.org
+website. It's a simple Flask 'hello world' app.
+
+"""
 import os
 from flask import Flask
 app = Flask(__name__)
