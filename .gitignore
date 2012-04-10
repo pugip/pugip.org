@@ -3,4 +3,8 @@ build
 include
 lib
 .Python
+<<<<<<< HEAD
 *.pyc
+=======
+*.pyc
+>>>>>>> upstream/master
